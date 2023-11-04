@@ -3,6 +3,7 @@ title: "Fundamentals of immunlogy"
 format:
   html:
     toc: true
+    theme: zephyr
 ---
 
 ```{r setup, include=FALSE}
